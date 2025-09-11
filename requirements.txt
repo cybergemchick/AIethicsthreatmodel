@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+aequitas
+pandas
+numpy
